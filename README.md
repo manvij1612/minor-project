@@ -1,1 +1,1 @@
-# minor-project
+# miniproject-digit recogniser
